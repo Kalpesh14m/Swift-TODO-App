@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4A0280EF71D9CCDAF7D4D0D77D3E7AC61247BE87",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5A3D909F346FC6C7EA5287424BAC8308A5B7F998" : 9223372036854775807,
+    "4A0280EF71D9CCDAF7D4D0D77D3E7AC61247BE87" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4FB42D63-1115-4994-A6C5-EF5907421387",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5A3D909F346FC6C7EA5287424BAC8308A5B7F998" : "Application\/",
+    "4A0280EF71D9CCDAF7D4D0D77D3E7AC61247BE87" : "SimpleDemoApp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LoginForm",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LoginForm\/LoginForm.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mohanbadgujar\/ToDo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4A0280EF71D9CCDAF7D4D0D77D3E7AC61247BE87"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mohanbadgujar\/Important-Data.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5A3D909F346FC6C7EA5287424BAC8308A5B7F998"
+    }
+  ]
+}
